@@ -1,0 +1,22 @@
+{
+  "name": "datamocker",
+  "version": "1.0.0",
+  "description": "A library for creating mock data from given typescript types and interfaces",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mtch99/datamocker.git"
+  },
+  "keywords": [
+    "mock"
+  ],
+  "author": "Maxime Tchagou",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mtch99/datamocker/issues"
+  },
+  "homepage": "https://github.com/mtch99/datamocker#readme"
+}
